@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Pablo Morán
+# ¡Hola! Soy Pablo Morán
 
 🎯 Apasionado por convertir datos en decisiones con impacto real.
 
